@@ -24,7 +24,7 @@ Follow these steps to set up the project on your local machine:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-username/invoice-generator-app.git
+    git clone https://github.com/your-username/InvoGen.git
     ```
 
 2. **Navigate to the project directory**:
